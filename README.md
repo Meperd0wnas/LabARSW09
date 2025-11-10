@@ -7,4 +7,3 @@
 #### 1.
 
 ![alt text](images/part1/maquinaA.png)
-
