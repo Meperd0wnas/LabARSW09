@@ -14,4 +14,12 @@ Creamos la VM
 #### 2
 
 Nos conectamos a la VM 
-![alt text](images/part1/conexion.png)
+
+![alt text](images/part1/conexion.png)}
+
+
+### 3
+
+Instalamos node 
+
+![alt text](images/part1/node.png)
