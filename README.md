@@ -6,5 +6,12 @@
 
 #### 1.
 
+Creamos la VM
+
 ![alt text](images/part1/maquina.png)
 
+
+#### 2
+
+Nos conectamos a la VM 
+![alt text](images/part1/conexion.png)
