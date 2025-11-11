@@ -6,4 +6,5 @@
 
 #### 1.
 
-![alt text](images/part1/maquinaA.png)
+![alt text](images/part1/maquina.png)
+
