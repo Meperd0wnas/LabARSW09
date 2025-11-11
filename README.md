@@ -18,8 +18,21 @@ Nos conectamos a la VM
 ![alt text](images/part1/conexion.png)}
 
 
-### 3
+#### 3
 
-Instalamos node 
+Instalamos node y git
 
 ![alt text](images/part1/node.png)
+
+![alt text](images/part1/git.png)
+
+#### 4
+
+Clonamos un repositorio que solo contenga FIbonacciApp y le instalamos las dependencias
+
+![alt text](images/part1/clonacionenVM.png)
+
+
+#### 5
+
+![alt text](images/part1/appCorriendo.png)
