@@ -48,8 +48,21 @@ creamos una Inbound port rule como se nos indico
 
 ![alt text](images/part1/verificacionP.png)
 
-#### 7
 
 verificamos que el endPoint funciona (para este punto me toco crear otra VM por que la primera dejo de funcionar)
 
 ![alt text](images/part1/endpoint.png)
+
+
+#### 7
+
+documentamos los tiempos de respuesta para dicho endpoint usando los valores dados 
+
+![alt text](image.png)
+
+
+#### 8
+
+verificamos el consumo
+
+![alt text](image.png)
