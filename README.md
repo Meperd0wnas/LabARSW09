@@ -66,3 +66,9 @@ documentamos los tiempos de respuesta para dicho endpoint usando los valores dad
 verificamos el consumo
 
 ![alt text](images/part1/consumo.png)
+
+#### 9
+
+modificamos el .JSON
+
+![alt text](images/part1/jsonmod.png)
