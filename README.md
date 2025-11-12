@@ -35,4 +35,21 @@ Clonamos un repositorio que solo contenga FIbonacciApp y le instalamos las depen
 
 #### 5
 
+ponemos a correr la APP e instalamos forever
+
 ![alt text](images/part1/appCorriendo.png)
+
+![alt text](images/part1/forever.png)
+
+
+#### 6
+
+creamos una Inbound port rule como se nos indico
+
+![alt text](images/part1/verificacionP.png)
+
+#### 7
+
+verificamos que el endPoint funciona (para este punto me toco crear otra VM por que la primera dejo de funcionar)
+
+![alt text](images/part1/endpoint.png)
