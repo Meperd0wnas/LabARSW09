@@ -58,11 +58,11 @@ verificamos que el endPoint funciona (para este punto me toco crear otra VM por 
 
 documentamos los tiempos de respuesta para dicho endpoint usando los valores dados 
 
-![alt text](image.png)
+![alt text](images/part1/tiempos.png)
 
 
 #### 8
 
 verificamos el consumo
 
-![alt text](image.png)
+![alt text](images/part1/consumo.png)
