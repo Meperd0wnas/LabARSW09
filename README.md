@@ -72,3 +72,7 @@ verificamos el consumo
 modificamos el .JSON
 
 ![alt text](images/part1/jsonmod.png)
+
+Resultados del newman
+
+![alt text](images/part1/newman.png)
