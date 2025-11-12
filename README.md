@@ -70,18 +70,19 @@ modificamos el .JSON
 
 Resultados del newman
 
-![alt text](images/part1/newman1.png)
+![alt text](images/part1/newman.png)
+
 
 
 #### 10
 
 cambiamos el tamaño
 
-![alt text](image.png)
+![alt text](images/part1/tamaño.png)
 
 probamos nuevamente los pasos anteriores
 
 
 ![alt text](images/part1/consumo.png)
 
-![alt text](images/part1/newman.png)
+![alt text](images/part1/newman1.png)
