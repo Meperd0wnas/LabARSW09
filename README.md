@@ -287,3 +287,9 @@ Permite definir reglas por protocolo, IP y puerto para mejorar la seguridad.
 - Combinando ambos enfoques se logra una solución **más robusta, eficiente y tolerante a fallos.**
 
 ---
+
+## Diagrama de despliegue 
+
+![alt text](images/part2/diagrama.png)
+
+---
