@@ -291,5 +291,3 @@ Permite definir reglas por protocolo, IP y puerto para mejorar la seguridad.
 ## Diagrama de despliegue 
 
 ![alt text](images/part2/diagrama.png)
-
----
