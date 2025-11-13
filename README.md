@@ -177,3 +177,23 @@ CPU: sube más rápido, pero B2ms lo maneja mejor que B1ls.
 Tasa de éxito: aumenta porque la VM más potente absorbe mejor la carga.
 
 Conclusión: escalamiento vertical ayuda, pero para cargas mayores o producción real, es mejor usar escalamiento horizontal (varias VMs + balanceador).
+
+
+### Parte 2 - Escalabilidad horizontal
+
+#### 1. creamos el balanceador de carga
+
+![alt text](images/part2/balanceador.png)
+
+#### 2. creeamos un Backend Pool
+
+![alt text](images/part2/pool.png)
+
+
+#### 3. creamos un  Health Probe
+
+![alt text](images/part2/probe.png)
+
+#### 4. Agregamos la regla
+
+![alt text](image.png)
