@@ -196,4 +196,12 @@ Conclusión: escalamiento vertical ayuda, pero para cargas mayores o producción
 
 #### 4. Agregamos la regla
 
-![alt text](image.png)
+![alt text](images/part2/rule.png)
+
+#### 5. creamos una Virtual Network dentro del grupo de recursos
+
+![alt text](images/part2/RV.png)
+
+#### 6. Aqui creamos las respectivas VM
+
+![alt text](images/part2/maquinas.png)
